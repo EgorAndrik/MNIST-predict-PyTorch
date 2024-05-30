@@ -1,11 +1,12 @@
 # MNIST-predict-PyTorch
-My first use of the PyTorch framework in practice. Predicting numbers.
-
+[notebook](MNIST_PyTorch.ipynb) - In this notebook I tried to write neural networks using PyTorhc for the first time
 
 # Kaggle
 
-https://www.kaggle.com/competitions/digit-recognizer
+- https://www.kaggle.com/competitions/digit-recognizer
 
-notebook: https://www.kaggle.com/code/egorandreasyan/digit-recognizer-ml-dl/notebook
+- notebook: https://www.kaggle.com/code/egorandreasyan/digit-recognizer-ml-dl/notebook
 
-best public score 0.99853
+- Then I tried to write more in PyTorch.
+
+- best public score 0.99853
